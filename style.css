@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+* {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.top {
+    background-color: #1F2937;
+}
+
+
+.logo-text {
+    font-size : 24px;
+    color: #F9FAF8
+}
+
+.header-link {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-heading {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-information {
+    font-size: 18px;
+    color: #E5E7EB
+}
+
+.hero-signup {
+    background-color: #3882f6;
+    font-size: 20px;
+    color: #F9FAF8;
+    font-weight: 600;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.hero-img {
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+}
+
+.information-title {
+    font-size: 36px;
+    font-weight: 900px;
+    color: #1F2937;
+}
+
+.info-img {
+    border:#3882f6 solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.info-subtext {
+    font-size: 18px;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+}
+
+.author {
+    font-size: 24px;
+    color:#1F2937;
+    font-weight: 900;
+}
+
+.call-container {
+    background-color: #3882f6;
+}
+
+.call-title {
+    font-size: 24px;
+    color:#F9FAF8;
+}
+
+.call-subtext {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.call-button {
+    background-color: transparent;
+    border:#F9FAF8 solid 2px;
+    border-radius: 6px;
+    font-size: 18;
+    font-weight: 600;
+    color:#F9FAF8
+}
+
+.footer {
+    background-color:#1F2937;
+    color:#E5E7EB;
+}
