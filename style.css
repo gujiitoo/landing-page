@@ -85,6 +85,24 @@ body {
     font-size: 36px;
     font-weight: 900px;
     color: #1F2937;
+    margin: 50px 0;
+}
+
+
+.information {
+    text-align: center;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 100px;
+}
+
+.item {
+    max-width: 200px;
+    text-align: center;
 }
 
 .info-img {
