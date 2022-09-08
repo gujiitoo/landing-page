@@ -118,6 +118,18 @@ body {
 }
 
 .quote {
+    
+    display: flex;
+ 
+    justify-content: center;
+}
+
+.quote-container {
+    width: 825px;
+    margin: 100px 0;
+}
+
+.quote {
     background-color: #E5E7EB;
 }
 
@@ -132,6 +144,7 @@ body {
     font-size: 24px;
     color:#1F2937;
     font-weight: 900;
+    text-align: right;
 }
 
 .call-container {
